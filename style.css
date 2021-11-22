@@ -4,6 +4,7 @@ body{
     background-color: #eee;
     border-color: #eee;
     box-shawdow:#ddd;
+    text-align:justify;
 }
 title{
     font-family: Roboto Slab;
@@ -49,7 +50,8 @@ p{
     height:auto;
 }
 img{
-    border: 2px solid green
+    border: 2px solid green;
+    width:100%
 }
 h5{
     color:red;
